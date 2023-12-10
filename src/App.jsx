@@ -1,8 +1,8 @@
 import './App.css'
 import React ,{useState} from 'react'
 import Shop from './components/Shop'
-import Header from './components/header'
-import Nav from './components/nav'
+import Header from './components/Header'
+import Nav from './components/Nav'
 Shop
 Header
 
